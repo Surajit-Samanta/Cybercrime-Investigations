@@ -1,0 +1,23 @@
+Ransomware Attack with Extortion Threats
+
+Background
+A hospital network is encrypted by ransomware, and attackers demand $2 million in cryptocurrency within 48 hours, threatening to release patient medical records if demands are not met. The hospital's IT team has isolated the infected systems but cannot restore operations quickly. Patient care is being diverted to other facilities, and critical surgeries are postponed.
+
+Key Details
+•	Victim Organization: 500-bed teaching hospital
+•	Ransom Amount: $2 million in Bitcoin
+•	Threat Level: Patient safety and privacy
+•	Attackers: Unknown group, possibly based outside the US
+•	Communication Method: Encrypted messages via dark web
+•	Hospital's Options: Pay ransom, refuse and restore from backups (72+ hours), contact FBI
+•	Regulatory Implications: HIPAA violations, state notification laws
+
+Analysis Questions
+	Is paying the ransom legal? What are the legal consequences?
+	What are the hospital's obligations under HIPAA?
+	What ethical duties does the hospital have to patients?
+	Should the hospital negotiate with attackers?
+	What are the implications of paying ransom for future attacks?
+	How should the hospital document this incident for legal purposes?
+	What role should law enforcement play in the decision-making process?
+	Are there sanctions implications if the attackers are from sanctioned countries?
