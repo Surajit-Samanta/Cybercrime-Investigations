@@ -1,0 +1,23 @@
+Scenario 7: Denial of Service Attack Against Critical Infrastructure
+Background
+A hacktivist group launches a distributed denial-of-service (DDoS) attack against a power grid's control systems, causing rolling blackouts affecting 2 million people. The group claims the attack is a protest against government policies. The attack lasts 6 hours before being mitigated. No one is physically harmed, but economic losses exceed $100 million.
+
+Key Details
+•	Target: Critical infrastructure (power grid)
+•	Attack Type: DDoS against control systems
+•	Duration: 6 hours
+•	Impact: 2 million people without power, $100 million in economic losses
+•	Attackers: Hacktivist group with political motivations
+•	Evidence: Server logs, network traffic, social media communications
+•	Legal Questions: Terrorism charges, computer fraud, political speech protections
+•	Motivation: Political protest against government policies
+
+Analysis Questions
+	Should this attack be prosecuted as terrorism or computer fraud?
+	What is the threshold for critical infrastructure attacks to be considered terrorism?
+	How should political motivation affect prosecution decisions?
+	What are the legal and ethical implications of charging hacktivists?
+	Should the investigation focus on identifying individuals or the group?
+	What preventive measures should critical infrastructure operators implement?
+	How should the government balance national security with civil liberties?
+	What role should international cooperation play in investigation?
